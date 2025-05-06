@@ -11,7 +11,7 @@
 🎓 **Formação Acadêmica:**
 
 - 💻 Estudante de **Sistemas de Informação** na [PUC Minas](https://www.pucminas.br)
-- 🔌 Técnico em **Eletrotécnica** pelo [SENAI Cinco de Contagem](https://www.senaimg.com.br)
+- 🔌 Técnico em **Eletrotécnica** pelo [SENAI](https://www.senaimg.com.br)
 
 💼 **Experiência Profissional:**
 
