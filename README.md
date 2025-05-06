@@ -16,6 +16,7 @@
 💼 **Experiência Profissional:**
 
 - 🧑‍💼 Jovem Aprendiz no setor de **Recursos Humanos** da **PepsiCo**
+
 🧠 **Habilidades e Competências:**
 
 - Linguagens de Programação: `C#`, `HTML`, `CSS`, `JavaScript`
