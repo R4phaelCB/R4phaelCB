@@ -1,7 +1,6 @@
 <h1 align="center">Olá! Eu sou o Raphael Caracci 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-Programador-blue?style=for-the-badge&logo=csharp" alt="C#">
   <img src="https://img.shields.io/badge/Sistemas%20de%20Informa%C3%A7%C3%A3o-PUC%20Minas-blue?style=for-the-badge" alt="PUC Minas">
   <img src="https://img.shields.io/badge/QA-Testes%20de%20Software-green?style=for-the-badge" alt="QA">
 </p>
