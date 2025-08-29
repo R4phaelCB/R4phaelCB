@@ -15,6 +15,11 @@
 💼 **Experiência Profissional:**
 
 - 👨‍💻 **Estagiário em Testes e Qualidade de Software (QA)** no **Tribunal de Contas do Estado de Minas Gerais (TCE-MG)**  
+  - Análise e entendimento da arquitetura de sistemas corporativos.  
+  - Estudo e aplicação de tecnologias utilizadas nas plataformas internas.  
+  - Apoio na codificação de sistemas e funcionalidades.  
+  - Execução de testes de sistemas para garantir qualidade e conformidade.  
+
 - 🧑‍💼 Experiência anterior como **Jovem Aprendiz em Recursos Humanos** na **PepsiCo**
 
 🧠 **Habilidades e Competências:**
@@ -44,4 +49,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R4phaelCB&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://git
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4phaelCB&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+📫 **Contato:**
+
+<div> 
+  <a href = "mailto:raphaelcaracci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raphael-caracci/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+---
+
+*“A prática constante leva à perfeição.”*
